@@ -2,3 +2,8 @@
 	path = gityopie/odoo-addons
 	url = git@github.com:gityopie/odoo-addons.git
 	branch = 15.0-dev
+
+[submodule "tharcisse/im_od_project_geolocate_base"]
+	path = tharcisse/im_od_project_geolocate_base
+	url = git@github.com:tharcisse/im_od_project_geolocate_base.git
+	branch = 15.0
