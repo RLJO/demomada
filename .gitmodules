@@ -7,3 +7,8 @@
 	path = tharcisse/im_od_project_geolocate_base
 	url = git@github.com:tharcisse/im_od_project_geolocate_base.git
 	branch = 15.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 15.0
