@@ -70,3 +70,8 @@
 	path = server-backend
 	url = https://github.com/OCA/server-backend.git
 	branch = 15.0
+
+[submodule "gityopie/odoo-addons"]
+	path = gityopie/odoo-addons
+	url = git@github.com:gityopie/odoo-addons.git
+	branch = 15.0-dev
