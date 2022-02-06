@@ -42,3 +42,8 @@
 	path = camptocamp/smartcamp_core
 	url = git@github.com:camptocamp/smartcamp_core.git
 	branch = 15.0
+
+[submodule "samuelshock/odoo_attendance"]
+	path = samuelshock/odoo_attendance
+	url = git@github.com:samuelshock/odoo_attendance.git
+	branch = main
