@@ -47,3 +47,8 @@
 	path = samuelshock/odoo_attendance
 	url = git@github.com:samuelshock/odoo_attendance.git
 	branch = main
+
+[submodule "RLJO/Privet"]
+	path = RLJO/Privet
+	url = git@github.com:RLJO/Privet.git
+	branch = app-sh_base_dynamic_approval
