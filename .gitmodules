@@ -42,3 +42,8 @@
 	path = camptocamp/smartcamp_core
 	url = git@github.com:camptocamp/smartcamp_core.git
 	branch = 15.0
+
+[submodule "RLJO/mypay"]
+	path = RLJO/mypay
+	url = git@github.com:RLJO/mypay.git
+	branch = 15.0
