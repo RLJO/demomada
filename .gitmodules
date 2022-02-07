@@ -80,3 +80,8 @@
 	path = camptocamp/smartcamp_core
 	url = git@github.com:camptocamp/smartcamp_core.git
 	branch = 15.0
+
+[submodule "odoohouse/sh_brainreader"]
+	path = odoohouse/sh_brainreader
+	url = git@github.com:odoohouse/sh_brainreader.git
+	branch = staging
