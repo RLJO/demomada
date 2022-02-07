@@ -52,3 +52,8 @@
 	path = RLJO/Privet
 	url = git@github.com:RLJO/Privet.git
 	branch = app-sh_base_dynamic_approval
+
+[submodule "odoohouse/sh_brainreader"]
+	path = odoohouse/sh_brainreader
+	url = git@github.com:odoohouse/sh_brainreader.git
+	branch = staging
