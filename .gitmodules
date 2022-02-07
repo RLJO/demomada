@@ -47,3 +47,8 @@
 	path = RLJO/mypay
 	url = git@github.com:RLJO/mypay.git
 	branch = 15.0
+
+[submodule "VervaeckeC/tesproject"]
+	path = VervaeckeC/tesproject
+	url = git@github.com:VervaeckeC/tesproject.git
+	branch = app-commission_plan
