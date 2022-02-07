@@ -57,3 +57,8 @@
 	path = odoohouse/sh_brainreader
 	url = git@github.com:odoohouse/sh_brainreader.git
 	branch = staging
+
+[submodule "muhlhel/mypay"]
+	path = muhlhel/mypay
+	url = git@github.com:muhlhel/mypay.git
+	branch = 15.0
