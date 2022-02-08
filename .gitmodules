@@ -90,3 +90,8 @@
 	path = VervaeckeC/tesproject
 	url = git@github.com:VervaeckeC/tesproject.git
 	branch = app-commission_plan
+
+[submodule "ingadhoc/account-invoicing"]
+	path = ingadhoc/account-invoicing
+	url = git@github.com:ingadhoc/account-invoicing.git
+	branch = 15.0
