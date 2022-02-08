@@ -85,3 +85,8 @@
 	path = odoohouse/sh_brainreader
 	url = git@github.com:odoohouse/sh_brainreader.git
 	branch = staging
+
+[submodule "VervaeckeC/tesproject"]
+	path = VervaeckeC/tesproject
+	url = git@github.com:VervaeckeC/tesproject.git
+	branch = app-commission_plan
