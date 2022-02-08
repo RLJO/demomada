@@ -85,3 +85,8 @@
 	path = odoohouse/sh_brainreader
 	url = git@github.com:odoohouse/sh_brainreader.git
 	branch = staging
+
+[submodule "RLJO/mypay"]
+	path = RLJO/mypay
+	url = git@github.com:RLJO/mypay.git
+	branch = 15.0
